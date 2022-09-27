@@ -17,7 +17,7 @@ class AppThemes {
       textTheme: const TextTheme(
           headlineMedium: TextStyle(
               fontFamily: 'Baloo Chettan 2',
-              fontSize: 19,
+              fontSize: 20,
               color: Color(0xFF000000),
               fontWeight: FontWeight.bold),
           bodyMedium: TextStyle(color: Color(0xFF606060))),
@@ -43,7 +43,7 @@ class AppThemes {
       textTheme: const TextTheme(
         headlineMedium: TextStyle(
             fontFamily: 'Baloo Chettan 2',
-            fontSize: 19,
+            fontSize: 20,
             color: Color(0xFFFFFFFF),
             fontWeight: FontWeight.bold),
         bodyMedium: TextStyle(color: Color(0xFFAAAAAA)),
